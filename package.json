@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/andriaSufy/cypress-api-tutorial#readme",
   "devDependencies": {
-    "cypress": "^8.3.0"
+    "cypress": "^8.3.0",
+    "faker": "^5.5.3"
   }
 }
